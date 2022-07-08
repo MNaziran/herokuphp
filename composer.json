@@ -1,14 +1,13 @@
 {
-    "name": "vendor_name/heroku",
-    "description": "description",
-    "minimum-stability": "stable",
-    "license": "proprietary",
-    "authors": [
-      {
-        "name": "Naziran",
-        "email": "20028828@myrp.edu.sg"
-      }
-    ],
-    "require": {
+  "name": "vendor_name/heroku",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Naziran",
+      "email": "20028828@myrp.edu.sg"
     }
-  }
+  ],
+  "require": {}
+}
